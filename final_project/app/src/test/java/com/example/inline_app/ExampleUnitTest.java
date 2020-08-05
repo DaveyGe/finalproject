@@ -1,4 +1,4 @@
-package com.example.final_project;
+package com.example.inline_app;
 
 import org.junit.Test;
 
